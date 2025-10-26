@@ -69,4 +69,4 @@ To view and interact with the project components, you will need the appropriate 
 ## 🖼️ Visual Preview
 
 Below is a snapshot of the main dashboard summary page.
-![Banking Dashboard Summary Page](Dasboard_Preview)
+![Banking Dashboard Summary Page](Dasboard_Preview.png)
